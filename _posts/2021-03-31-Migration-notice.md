@@ -16,6 +16,6 @@ for more information on how to get involved.
 The [IRBEM-extras project][extras] will contain the developer-contributed
 packages that were previously hosted on Sourceforge alongside the library.
 
-[github]: https://prbem.github.com/IRBEM
-[issues]: https://prbem.github.com/IRBEM/issues
+[github]: https://github.com/PRBEM/IRBEM
+[issues]: https://github.com/PRBEM/IRBEM/issues
 [extras]: https://github.com/PRBEM/IRBEM-extras

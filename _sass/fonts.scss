@@ -1,0 +1,13 @@
+@import "palette";
+
+body {
+	font-family : "Roboto", sans-serif;
+}
+
+a {
+	color : $gray;
+	font-weight: bold;
+	&:visited {
+		color: $gray;
+	}
+}

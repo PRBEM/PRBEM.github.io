@@ -1,0 +1,33 @@
+@import "palette";
+
+.post,
+.home {
+	margin: 5px;
+}
+
+.post-list {
+	list-style: none;
+	padding-inline-start : 0;
+	li {
+		border: 1px solid $yellow;
+		margin-bottom: 10px;
+		padding: 5px;
+		h3 {
+			margin: 0;
+		}
+	}
+}
+
+.post-meta {
+	color: $gray;
+	font-size: 0.8em;
+}
+
+dt {
+	font-weight : bold;
+	margin-top: 20px;
+}
+
+dd {
+	margin-inline-start: 30px;
+}

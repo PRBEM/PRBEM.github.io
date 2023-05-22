@@ -31,12 +31,13 @@ radiation belt modeling and to encourage the sharing of modeling expertise.
 ### Vice-Chairs:
 
  - Brunet, A. (France), 2021 – 2024 (antoine.brunet - at - onera.fr)
- - Claudepierre, S. (USA), 2018 – 2022 (sethclaudepierre – at – gmail.com)
- - Mikhailov, V. (Russia), 2018 – 2022 (vvmikhajlov – at – mephi.ru)
+ - Shprits, Y. (Germany/USA), 2022 – 2026 (yshprits – at – gfz-potsdam.de)
+ - Zheng, Y. (USA), 2022 – 2026 (yihua.zheng - at - nasa.gov)
 
 ### Intercommission/Panel Liaisons:
 
- - Scientific Commission C:  O’Brien, P. (USA), 2018 – 2022
- - Sub-Commission D3:  Shprits, Y. (Germany/USA), 2018 – 2022
- - Panel on Space Weather:  Jiggens, P. (ESA/ESTEC), 2018 – 2022
+ - Scientific Commission C:  O’Brien, P. (USA), 2018 – 2024
+ - Sub-Commission D3:  Shprits, Y. (Germany/USA), 2018 – 2024
+ - Panel on Space Weather:  Jiggens, P. (ESA/ESTEC), 2018 – 2024
+ - Task Group on Establishing a Constellation of Small Satellites: Yoshi Miyoshi (Japan), 2023 - 2024
 
